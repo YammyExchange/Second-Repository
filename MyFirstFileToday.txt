@@ -1,0 +1,3 @@
+These are changes made by developer 1
+Then developer 2 decided to make a few changes too
+How abour we merge both of them together?
